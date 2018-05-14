@@ -1,2 +1,2 @@
 # site.source
-hugo site
+*hugo site structure
